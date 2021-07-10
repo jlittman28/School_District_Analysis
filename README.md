@@ -11,7 +11,9 @@ Acaedemic integrity is pivotal in fostering a creative and collaborative environ
     ![image](https://user-images.githubusercontent.com/85204128/125150200-14d08880-e10c-11eb-89d6-30bb2f953db1.png)
 
 * How is the school summary affected?
-  *  
+
+  Lower student count resulted in higher grade point averages (lower denominator)
+  
 * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
   
   Using loc method to replace math/reading scores, the performance went up. Previously in the bottom 5 schools, overall % passing for Thomas High School increased
